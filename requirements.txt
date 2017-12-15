@@ -1,0 +1,2 @@
+Django~=2.0
+django-portfolio~=0.0.1
